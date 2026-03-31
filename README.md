@@ -23,7 +23,7 @@ math-ai/
 └── requirements.txt # Dependencies
 ⚙️ Installation
 Clone the repository:
-git clone https://github.com/your-username/math-ai.git
+git clone https://github.com/en1gma_alt/math-ai.git
 cd math-ai
 Install dependencies:
 pip install -r requirements.txt
